@@ -61,7 +61,7 @@ const Footer = () => {
               <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
               <p>
                 <a href='#!' className='text-reset'>
-                  Angular
+                  Html
                 </a>
               </p>
               <p>
@@ -71,12 +71,12 @@ const Footer = () => {
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Vue
+                  Css
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Laravel
+                  Javascript
                 </a>
               </p>
             </div>
